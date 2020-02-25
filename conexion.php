@@ -1,6 +1,6 @@
 <?php
 /* Conexión BD */
-define('DB_SERVER', '10.130.20.80');
+define('DB_SERVER', '10.131.22.18');
 
 	
 define('DB_USERNAME', 'root');
